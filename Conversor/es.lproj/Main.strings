@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "8y1-g6-xRe"; */
+"8y1-g6-xRe.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Dólares"; ObjectID = "GPU-cu-zNQ"; */
+"GPU-cu-zNQ.text" = "Dólares";
+
+/* Class = "UILabel"; text = "Euros"; ObjectID = "MUT-DT-c3n"; */
+"MUT-DT-c3n.text" = "Euros";
+
+/* Class = "UILabel"; text = "1 € = ... $"; ObjectID = "iFT-um-Hpd"; */
+"iFT-um-Hpd.text" = "1 € = ... $";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "mxZ-vH-neZ"; */
+"mxZ-vH-neZ.normalTitle" = "Calcular";
